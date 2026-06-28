@@ -132,7 +132,7 @@ Trzeci wiersz oblicza przybliżony wiek użytkownika.
 
 Czwarty wiersz wyświetla wynik.
 
-## Typowe błędy uczniów
+## Typowe problemy uczniów
 
 ### Użycie input() bez komunikatu
 
