@@ -20,6 +20,7 @@ zaczynają naukę programowania.
 - [Zmienne](01-podstawy/03-zmienne.md)
 - [Typy danych](01-podstawy/04-typy-danych.md)
 - [Komentarze](01-podstawy/05-komentarze.md)
+- [Operatory w Pythonie](01-podstawy/06-operatory.md)
 
 ### 02. Wejście i wyjście
 

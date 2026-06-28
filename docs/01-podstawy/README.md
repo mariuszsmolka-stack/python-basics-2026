@@ -9,3 +9,4 @@ W tym dziale poznasz pierwsze elementy języka Python.
 - [Zmienne](03-zmienne.md)
 - [Typy danych](04-typy-danych.md)
 - [Komentarze](05-komentarze.md)
+- [Operatory w Pythonie](06-operatory.md)
