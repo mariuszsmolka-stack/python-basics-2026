@@ -51,3 +51,7 @@ zaczynają naukę programowania.
 - [Kalkulator](05-projekty/01-kalkulator.md)
 - [Parzysta czy nieparzysta](05-projekty/02-parzysta-nieparzysta.md)
 - [Zgadywanie liczby](05-projekty/03-zgadywanie-liczby.md)
+
+## Informacje
+
+- [Licencja materiałów](licencja.md)
