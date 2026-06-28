@@ -1,1 +1,52 @@
+# Python od podstaw
 
+Kurs dla klasy I liceum. Materiały są przygotowane dla osób, które dopiero
+zaczynają naukę programowania.
+
+## Spis treści
+
+### 00. Organizacja pracy
+
+- [Wprowadzenie](00-organizacja/README.md)
+- [Jak pracujemy](00-organizacja/jak-pracujemy.md)
+- [JupyterLab](00-organizacja/jupyterlab.md)
+- [Oddawanie prac](00-organizacja/oddawanie-prac.md)
+
+### 01. Podstawy
+
+- [Wprowadzenie](01-podstawy/README.md)
+- [Pierwszy program](01-podstawy/01-pierwszy-program.md)
+- [Funkcja print](01-podstawy/02-print.md)
+- [Zmienne](01-podstawy/03-zmienne.md)
+- [Typy danych](01-podstawy/04-typy-danych.md)
+- [Komentarze](01-podstawy/05-komentarze.md)
+
+### 02. Wejście i wyjście
+
+- [Wprowadzenie](02-wejscie-wyjscie/README.md)
+- [Funkcja input](02-wejscie-wyjscie/01-input.md)
+- [Konwersja typów](02-wejscie-wyjscie/02-konwersja-typow.md)
+- [Zadania](02-wejscie-wyjscie/03-zadania.md)
+
+### 03. Warunki
+
+- [Wprowadzenie](03-warunki/README.md)
+- [Instrukcja if](03-warunki/01-if.md)
+- [Instrukcja if else](03-warunki/02-if-else.md)
+- [Instrukcja elif](03-warunki/03-elif.md)
+- [Zadania](03-warunki/04-zadania.md)
+
+### 04. Pętle
+
+- [Wprowadzenie](04-petle/README.md)
+- [Pętla while](04-petle/01-while.md)
+- [Licznik](04-petle/02-licznik.md)
+- [Pętla for i range](04-petle/03-for-range.md)
+- [Zadania](04-petle/04-zadania.md)
+
+### 05. Projekty
+
+- [Wprowadzenie](05-projekty/README.md)
+- [Kalkulator](05-projekty/01-kalkulator.md)
+- [Parzysta czy nieparzysta](05-projekty/02-parzysta-nieparzysta.md)
+- [Zgadywanie liczby](05-projekty/03-zgadywanie-liczby.md)
