@@ -10,4 +10,4 @@ Skrót: **CC BY-NC-SA 4.0**
 
 Pełna treść licencji:
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
+[Creative Commons BY-NC-SA 4.0 — wersja polska](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl)
