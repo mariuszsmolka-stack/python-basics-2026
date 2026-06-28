@@ -8,3 +8,9 @@ użytkownika, stosowanie warunków i prostych pętli oraz wykonanie małych
 projektów.
 
 Materiały kursu znajdują się w katalogu [docs](docs/index.md).
+
+## Licencja
+
+Materiały w tym repozytorium są udostępniane na licencji **CC BY-NC-SA 4.0**.
+
+Autor: **Mariusz Smółka**.
