@@ -25,7 +25,7 @@ zaczynają naukę programowania.
 ### 02. Wejście i wyjście
 
 - [Wprowadzenie](02-wejscie-wyjscie/README.md)
-- [Funkcja input](02-wejscie-wyjscie/01-input.md)
+- [Wczytywanie danych od użytkownika - input()](02-wejscie-wyjscie/01-input.md)
 - [Konwersja typów](02-wejscie-wyjscie/02-konwersja-typow.md)
 - [Zadania](02-wejscie-wyjscie/03-zadania.md)
 
