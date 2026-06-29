@@ -241,6 +241,115 @@ else:
 print("Liczba prób:", liczba_prob)
 ```
 
+## Co uczeń ma dodać od siebie?
+
+Do projektu dodaj minimum 5 samodzielnych zmian.
+
+Co najmniej jedna zmiana musi wpływać na działanie programu, a nie tylko na tekst komunikatów.
+
+Nie musisz wymyślać wszystkich zmian samodzielnie. Możesz wybrać propozycje z listy, ale program ma być spójny i działać poprawnie.
+
+## Przykłady zmian, które możesz dodać
+
+1. Inny zakres liczb
+
+Zamiast zgadywania od `1` do `10`, program może działać w zakresie od `1` do `20` albo od `1` do `100`.
+
+Przykład komunikatu:
+
+```text
+Zgadnij liczbę od 1 do 20.
+```
+
+2. Inna tajna liczba
+
+W wersji bez losowania uczeń zmienia tajną liczbę na własną, na przykład:
+
+```python
+tajna_liczba = 13
+```
+
+3. Limit prób
+
+Program pozwala na maksymalnie `5` prób.
+
+Jeżeli użytkownik nie zgadnie, program wypisuje komunikat o przegranej.
+
+4. Ocena wyniku
+
+Po zakończeniu gry program ocenia wynik:
+
+- `1-2` próby: `Świetny wynik!`
+- `3-5` prób: `Dobry wynik.`
+- więcej niż `5` prób: `Udało się, ale można szybciej.`
+
+5. Komunikat powitalny
+
+Program wypisuje krótki opis zasad gry przed rozpoczęciem.
+
+6. Komunikat po każdej próbie
+
+Program wypisuje numer aktualnej próby, na przykład:
+
+```text
+To była próba numer 3.
+```
+
+7. Bardziej przyjazne podpowiedzi
+
+Zamiast tylko `Za mało.` albo `Za dużo.`, program może wypisywać:
+
+- `Za mało. Spróbuj podać większą liczbę.`
+- `Za dużo. Spróbuj podać mniejszą liczbę.`
+
+8. Podsumowanie gry
+
+Po zakończeniu program wypisuje tajną liczbę, liczbę prób i komunikat końcowy.
+
+9. Wersja z losowaniem
+
+Dla chętnych program może losować liczbę:
+
+```python
+import random
+tajna_liczba = random.randint(1, 20)
+```
+
+10. Komentarze w kodzie
+
+Uczeń dodaje krótkie komentarze wyjaśniające pętlę i licznik prób, na przykład:
+
+```python
+# Pętla działa, dopóki użytkownik nie odgadnie liczby
+while proba != tajna_liczba:
+```
+
+## Przykładowy zestaw zmian dla ucznia
+
+Uczeń może wybrać na przykład taki zestaw 5 zmian:
+
+1. Zmienić tytuł gry.
+2. Zmienić zakres zgadywania na 1-20.
+3. Dodać limit 5 prób.
+4. Dodawać komunikat z numerem próby.
+5. Dodać podsumowanie gry po zakończeniu.
+
+Drugi przykładowy zestaw:
+
+1. Zmienić komunikaty dla użytkownika.
+2. Zmienić tajną liczbę.
+3. Dodać ocenę wyniku zależną od liczby prób.
+4. Dodać bardziej przyjazne podpowiedzi.
+5. Dodać komentarz wyjaśniający działanie pętli `while`.
+
+Trzeci przykładowy zestaw dla chętnych:
+
+1. Dodać losowanie liczby.
+2. Zmienić zakres losowania na 1-50.
+3. Dodać limit prób.
+4. Dodać komunikat o przegranej po wykorzystaniu wszystkich prób.
+5. Dodać końcowe podsumowanie gry.
+
 ## Kryteria zaliczenia
 
 Program jest zaliczony, jeżeli:

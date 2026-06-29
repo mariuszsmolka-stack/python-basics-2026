@@ -197,6 +197,115 @@ print(f"Wartość brutto: {wartosc_brutto:.2f} zł")
 
 Zapis `:.2f` oznacza dwa miejsca po kropce.
 
+## Co uczeń ma dodać od siebie?
+
+Do projektu dodaj minimum 5 samodzielnych zmian.
+
+Co najmniej jedna zmiana musi wpływać na działanie programu, a nie tylko na tekst komunikatów.
+
+Nie musisz wymyślać wszystkich zmian samodzielnie. Możesz wybrać propozycje z listy, ale program ma być spójny i działać poprawnie.
+
+## Przykłady zmian, które możesz dodać
+
+1. Koszt dostawy
+
+Program pyta użytkownika o koszt dostawy i dodaje go do ceny końcowej.
+
+Przykład zmiennych:
+
+```python
+koszt_dostawy
+wartosc_z_dostawa
+```
+
+2. Rabat po przekroczeniu kwoty
+
+Jeżeli wartość brutto jest większa niż `100` zł, program nalicza rabat `10%`.
+
+Przykład komunikatu:
+
+```text
+Przyznano rabat 10%.
+```
+
+3. Wybór typu klienta
+
+Program pyta, czy klient jest uczniem, nauczycielem czy innym klientem.
+
+Dla ucznia może być rabat `5%`, dla nauczyciela `10%`, a dla pozostałych brak rabatu.
+
+4. Opakowanie prezentowe
+
+Program pyta, czy doliczyć koszt opakowania prezentowego.
+
+Na tym etapie można zrobić prostą wersję: użytkownik wpisuje koszt opakowania, a program dodaje go do końcowej ceny.
+
+5. Klasyfikacja zakupów
+
+Program wypisuje:
+
+- `Małe zakupy`, gdy wartość brutto jest mniejsza niż `50` zł,
+- `Średnie zakupy`, gdy wartość brutto jest od `50` do `200` zł,
+- `Duże zakupy`, gdy wartość brutto jest większa lub równa `200` zł.
+
+6. Inna stawka VAT
+
+Program pozwala wybrać albo wpisać inną stawkę VAT, na przykład `5%`, `8%` albo `23%`.
+
+7. Cena za kilka produktów tego samego typu
+
+Program pyta o cenę jednego produktu i liczbę sztuk, a potem oblicza koszt całkowity.
+
+8. Podsumowanie paragonu
+
+Program wypisuje wynik w formie prostego paragonu, na przykład:
+
+```text
+--- PARAGON ---
+Produkt: pendrive
+Liczba sztuk: 3
+Cena netto: 60.00 zł
+VAT: 13.80 zł
+Razem brutto: 73.80 zł
+```
+
+9. Zaokrąglenie wyniku
+
+Program wypisuje kwoty do dwóch miejsc po kropce za pomocą f-stringów.
+
+Przykład:
+
+```python
+print(f"Wartość brutto: {wartosc_brutto:.2f} zł")
+```
+
+10. Komentarze w kodzie
+
+Uczeń dodaje krótkie komentarze wyjaśniające najważniejsze obliczenia, na przykład:
+
+```python
+# Obliczamy wartość netto całych zakupów
+wartosc_netto = cena_netto * liczba_sztuk
+```
+
+## Przykładowy zestaw zmian dla ucznia
+
+Uczeń może wybrać na przykład taki zestaw 5 zmian:
+
+1. Zmienić tytuł programu.
+2. Dodać koszt dostawy.
+3. Dodać rabat 10% po przekroczeniu 100 zł.
+4. Wypisać paragon z pustymi liniami.
+5. Sformatować kwoty do dwóch miejsc po kropce.
+
+Drugi przykładowy zestaw:
+
+1. Zmienić komunikaty dla użytkownika.
+2. Dodać wybór stawki VAT.
+3. Dodać klasyfikację zakupów: małe, średnie, duże.
+4. Dodać komentarz przy obliczaniu VAT.
+5. Dodać komunikat końcowy z podziękowaniem.
+
 ## Kryteria zaliczenia
 
 Program jest zaliczony, jeżeli:
