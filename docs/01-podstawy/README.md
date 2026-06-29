@@ -4,7 +4,7 @@ W tym dziale poznasz pierwsze elementy języka Python.
 
 ## Lekcje
 
-- [Pierwszy program](01-pierwszy-program.md)
+- [Pierwszy program w Pythonie - komputer wykonuje Twoje polecenia](01-pierwszy-program.md)
 - [Funkcja print() w Pythonie - wypisywanie tekstu i wartości](02-print.md)
 - [Zmienne w Pythonie - nazwy, wartości i proste obliczenia](03-zmienne.md)
 - [Typy danych w Pythonie - int, float, str, bool](04-typy-danych.md)
