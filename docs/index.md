@@ -28,7 +28,7 @@ zaczynają naukę programowania.
 - [Wprowadzenie](02-wejscie-wyjscie/README.md)
 - [Wczytywanie danych od użytkownika - input()](02-wejscie-wyjscie/01-input.md)
 - [Konwersja typów w Pythonie - int(), float(), str()](02-wejscie-wyjscie/02-konwersja-typow.md)
-- [Zadania](02-wejscie-wyjscie/03-zadania.md)
+- [Zadania - input(), print() i konwersja typów](02-wejscie-wyjscie/03-zadania.md)
 
 ### 03. Warunki
 
