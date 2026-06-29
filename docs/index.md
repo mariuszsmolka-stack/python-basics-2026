@@ -33,6 +33,7 @@ zaczynają naukę programowania.
 ### 03. Warunki
 
 - [Wprowadzenie](03-warunki/README.md)
+- [Bloki kodu i wcięcia w Pythonie](03-warunki/00-bloki-kodu.md)
 - [Instrukcja warunkowa if w Pythonie](03-warunki/01-if.md)
 - [Instrukcja warunkowa if-else w Pythonie](03-warunki/02-if-else.md)
 - [Instrukcja elif w Pythonie - kilka warunków po kolei](03-warunki/03-elif.md)
