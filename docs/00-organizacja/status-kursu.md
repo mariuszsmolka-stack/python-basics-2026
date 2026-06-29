@@ -10,7 +10,7 @@
 - Licencja: OK
 - Dział 00-organizacja: DO POPRAWY
 - Dział 01-podstawy: OK
-- Dział 02-wejście-wyjście: DO POPRAWY
+- Dział 02-wejście-wyjście: OK
 - Dział 03-warunki: OK
 - Dział 04-pętle: OK
 - Dział 05-projekty: OK
@@ -50,7 +50,7 @@
 - OK — `README.md` — zawiera linki do lekcji działu.
 - OK — `01-input.md` — lekcja uzupełniona.
 - OK — `02-konwersja-typow.md` — lekcja uzupełniona.
-- PUSTE / ROBOCZE — `03-zadania.md` — plik wygląda na szkic.
+- OK — `03-zadania.md` — zadania uzupełnione.
 
 ## 03. Warunki
 
