@@ -18,7 +18,7 @@ zaczynają naukę programowania.
 - [Pierwszy program](01-podstawy/01-pierwszy-program.md)
 - [Funkcja print() w Pythonie - wypisywanie tekstu i wartości](01-podstawy/02-print.md)
 - [Zmienne w Pythonie - nazwy, wartości i proste obliczenia](01-podstawy/03-zmienne.md)
-- [Typy danych](01-podstawy/04-typy-danych.md)
+- [Typy danych w Pythonie - int, float, str, bool](01-podstawy/04-typy-danych.md)
 - [Komentarze](01-podstawy/05-komentarze.md)
 - [Operatory w Pythonie](01-podstawy/06-operatory.md)
 
