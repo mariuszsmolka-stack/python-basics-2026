@@ -11,6 +11,7 @@ zaczynają naukę programowania.
 - [Jak pracujemy](00-organizacja/jak-pracujemy.md)
 - [JupyterLab](00-organizacja/jupyterlab.md)
 - [Oddawanie prac](00-organizacja/oddawanie-prac.md)
+- [Status kursu](00-organizacja/status-kursu.md)
 
 ### 01. Podstawy
 

@@ -7,3 +7,4 @@ W tym dziale ustalamy, jak będziemy pracować na lekcjach programowania.
 - [Jak pracujemy](jak-pracujemy.md)
 - [JupyterLab](jupyterlab.md)
 - [Oddawanie prac](oddawanie-prac.md)
+- [Status kursu](status-kursu.md)
