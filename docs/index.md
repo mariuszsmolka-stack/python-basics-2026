@@ -49,7 +49,7 @@ zaczynają naukę programowania.
 
 - [Wprowadzenie](05-projekty/README.md)
 - [Mini kalkulator kosztów zakupów](05-projekty/01-kalkulator.md)
-- [Parzysta czy nieparzysta](05-projekty/02-parzysta-nieparzysta.md)
+- [Projekt - liczba parzysta, nieparzysta i podzielność](05-projekty/02-parzysta-nieparzysta.md)
 - [Gra - zgadywanie liczby](05-projekty/03-zgadywanie-liczby.md)
 
 ## Informacje
