@@ -11,8 +11,8 @@
 - Dział 00-organizacja: DO POPRAWY
 - Dział 01-podstawy: OK
 - Dział 02-wejście-wyjście: DO POPRAWY
-- Dział 03-warunki: DO POPRAWY
-- Dział 04-pętle: DO POPRAWY
+- Dział 03-warunki: OK
+- Dział 04-pętle: OK
 - Dział 05-projekty: OK
 
 ## Szczegóły
@@ -55,10 +55,12 @@
 ## 03. Warunki
 
 - OK — `README.md` — zawiera linki do lekcji działu.
+- OK — `00-bloki-kodu.md` — lekcja uzupełniona i uwzględniona w spisach.
 - OK — `01-if.md` — lekcja uzupełniona.
 - OK — `02-if-else.md` — lekcja uzupełniona.
 - OK — `03-elif.md` — lekcja uzupełniona.
-- PUSTE / ROBOCZE — `04-zadania.md` — plik wygląda na szkic.
+- OK — `04-zadania.md` — zadania uzupełnione.
+- OK — `05-match-case.md` — lekcja uzupełniona i uwzględniona w spisach.
 
 ## 04. Pętle
 
@@ -66,7 +68,8 @@
 - OK — `01-while.md` — lekcja uzupełniona.
 - OK — `02-licznik.md` — lekcja uzupełniona.
 - OK — `03-for-range.md` — lekcja uzupełniona.
-- PUSTE / ROBOCZE — `04-zadania.md` — plik wygląda na szkic.
+- OK — `04-zadania.md` — zadania uzupełnione.
+- OK — `05-break-continue.md` — lekcja uzupełniona i uwzględniona w spisach.
 
 ## 05. Projekty
 
@@ -84,11 +87,12 @@
 - OK — `docs/03-warunki/README.md` — linki względne prowadzą do istniejących plików.
 - OK — `docs/04-petle/README.md` — linki względne prowadzą do istniejących plików.
 - OK — `docs/05-projekty/README.md` — linki względne prowadzą do istniejących plików.
+- OK — nowe lekcje — `00-bloki-kodu.md`, `05-match-case.md` i `05-break-continue.md` są uwzględnione w odpowiednich spisach.
 
 ## Następne kroki
 
 1. Uzupełnić robocze pliki w dziale `00-organizacja`.
-2. Uzupełnić `docs/02-wejscie-wyjscie/03-zadania.md`.
-3. Uzupełnić `docs/03-warunki/04-zadania.md`.
-4. Uzupełnić `docs/04-petle/04-zadania.md`.
-5. Przejrzeć stronę po publikacji na GitHub Pages.
+2. Sprawdzić spójność kolejności lekcji po publikacji na GitHub Pages.
+3. Przejrzeć ćwiczenia utrwalające w działach wejście-wyjście, warunki i pętle.
+4. Sprawdzić, czy opisy organizacyjne są wystarczające dla uczniów.
+5. Brak pilnych poprawek w linkach.
