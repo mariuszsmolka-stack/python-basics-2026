@@ -42,7 +42,7 @@ zaczynają naukę programowania.
 - [Wprowadzenie](04-petle/README.md)
 - [Pętla while](04-petle/01-while.md)
 - [Licznik](04-petle/02-licznik.md)
-- [Pętla for i range](04-petle/03-for-range.md)
+- [Pętla for i funkcja range() w Pythonie](04-petle/03-for-range.md)
 - [Zadania](04-petle/04-zadania.md)
 
 ### 05. Projekty
