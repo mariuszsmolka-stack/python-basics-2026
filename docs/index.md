@@ -40,7 +40,7 @@ zaczynają naukę programowania.
 ### 04. Pętle
 
 - [Wprowadzenie](04-petle/README.md)
-- [Pętla while](04-petle/01-while.md)
+- [Pętla while w Pythonie - powtarzanie dopóki warunek jest spełniony](04-petle/01-while.md)
 - [Licznik](04-petle/02-licznik.md)
 - [Pętla for i funkcja range() w Pythonie](04-petle/03-for-range.md)
 - [Zadania](04-petle/04-zadania.md)
