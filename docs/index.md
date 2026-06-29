@@ -38,6 +38,7 @@ zaczynają naukę programowania.
 - [Instrukcja warunkowa if-else w Pythonie](03-warunki/02-if-else.md)
 - [Instrukcja elif w Pythonie - kilka warunków po kolei](03-warunki/03-elif.md)
 - [Zadania - instrukcje warunkowe if, else i elif](03-warunki/04-zadania.md)
+- [match-case w Pythonie - wybór jednej z wielu możliwości](03-warunki/05-match-case.md)
 
 ### 04. Pętle
 

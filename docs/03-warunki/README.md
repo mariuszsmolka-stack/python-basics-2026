@@ -9,3 +9,4 @@ W tym dziale poznasz instrukcje warunkowe, które pozwalają programowi podejmow
 - [Instrukcja warunkowa if-else w Pythonie](02-if-else.md)
 - [Instrukcja elif w Pythonie - kilka warunków po kolei](03-elif.md)
 - [Zadania - instrukcje warunkowe if, else i elif](04-zadania.md)
+- [match-case w Pythonie - wybór jednej z wielu możliwości](05-match-case.md)
