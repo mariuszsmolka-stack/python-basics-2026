@@ -44,7 +44,7 @@ zaczynają naukę programowania.
 - [Pętla while w Pythonie - powtarzanie dopóki warunek jest spełniony](04-petle/01-while.md)
 - [Licznik, akumulator i skrócone operatory przypisania w Pythonie](04-petle/02-licznik.md)
 - [Pętla for i funkcja range() w Pythonie](04-petle/03-for-range.md)
-- [Zadania](04-petle/04-zadania.md)
+- [Zadania - pętle while, for, range(), licznik i akumulator](04-petle/04-zadania.md)
 
 ### 05. Projekty
 
