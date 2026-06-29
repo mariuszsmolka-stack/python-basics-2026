@@ -17,7 +17,7 @@ zaczynają naukę programowania.
 - [Wprowadzenie](01-podstawy/README.md)
 - [Pierwszy program](01-podstawy/01-pierwszy-program.md)
 - [Funkcja print](01-podstawy/02-print.md)
-- [Zmienne](01-podstawy/03-zmienne.md)
+- [Zmienne w Pythonie - nazwy, wartości i proste obliczenia](01-podstawy/03-zmienne.md)
 - [Typy danych](01-podstawy/04-typy-danych.md)
 - [Komentarze](01-podstawy/05-komentarze.md)
 - [Operatory w Pythonie](01-podstawy/06-operatory.md)
