@@ -8,3 +8,4 @@ W tym dziale poznasz pętle, czyli sposób powtarzania instrukcji w programie.
 - [Licznik, akumulator i skrócone operatory przypisania w Pythonie](02-licznik.md)
 - [Pętla for i funkcja range() w Pythonie](03-for-range.md)
 - [Zadania - pętle while, for, range(), licznik i akumulator](04-zadania.md)
+- [break i continue w pętlach - przerywanie i pomijanie obiegu](05-break-continue.md)
