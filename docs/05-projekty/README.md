@@ -6,4 +6,4 @@ W tym dziale wykonasz krótkie projekty, które łączą poznane elementy Python
 
 - [Mini kalkulator kosztów zakupów](01-kalkulator.md)
 - [Parzysta czy nieparzysta](02-parzysta-nieparzysta.md)
-- [Zgadywanie liczby](03-zgadywanie-liczby.md)
+- [Gra - zgadywanie liczby](03-zgadywanie-liczby.md)
