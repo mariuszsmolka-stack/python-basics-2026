@@ -11,6 +11,8 @@ To jest strona główna kursu Python od podstaw. Materiały są przeznaczone dla
 
 Kurs prowadzi od pierwszych prostych poleceń do warunków, pętli i małych projektów. Na zajęciach pracujemy głównie w JupyterLab, czyli środowisku, w którym można szybko wpisywać kod, uruchamiać go i obserwować wyniki.
 
+W kursie znajduje się także dział [Algorytmy](06-algorytmy/README.md), przygotowany dla uczniów klas I, II i III liceum. Implementacje w Pythonie są tam domyślnie ukryte, aby najpierw zrozumieć pomysł rozwiązania.
+
 ## Od czego zacząć
 
 [Przejdź do pierwszej lekcji](01-podstawy/01-pierwszy-program.md)

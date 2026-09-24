@@ -14,6 +14,7 @@
 - Dział 03-warunki: OK
 - Dział 04-pętle: OK
 - Dział 05-projekty: OK
+- Dział 06-algorytmy: OK
 
 ## Szczegóły
 
@@ -78,9 +79,19 @@
 - OK — `02-parzysta-nieparzysta.md` — projekt uzupełniony.
 - OK — `03-zgadywanie-liczby.md` — projekt uzupełniony.
 
+## 06. Algorytmy
+
+- OK — `README.md` — opisuje dział algorytmów i podział na klasy.
+- OK — `klasa-1/README.md` — zawiera link do algorytmu dla klasy I.
+- OK — `klasa-1/01-warunek-istnienia-trojkata.md` — lekcja algorytmiczna uzupełniona.
+- OK — `klasa-2/README.md` — zawiera link do algorytmu dla klasy II.
+- OK — `klasa-2/01-sortowanie-babelkowe.md` — lekcja algorytmiczna uzupełniona.
+- OK — `klasa-3/README.md` — zawiera link do algorytmu dla klasy III.
+- OK — `klasa-3/01-nwd-i-nww.md` — lekcja algorytmiczna uzupełniona.
+
 ## Linki
 
-- OK — boczna nawigacja — zawiera dostęp do strony głównej, licencji, organizacji kursu, statusu, działów i lekcji.
+- OK — boczna nawigacja — zawiera dostęp do strony głównej, licencji, organizacji kursu, statusu, działów, lekcji i algorytmów.
 - OK — `docs/00-organizacja/README.md` — linki względne prowadzą do istniejących plików.
 - OK — działy kursu — spisy treści działów prowadzą do istniejących lekcji.
 

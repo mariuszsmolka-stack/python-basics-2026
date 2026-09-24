@@ -21,7 +21,8 @@ Kurs jest przeznaczony dla uczniów klasy I liceum oraz osób początkujących. 
 - licznik i akumulator,
 - pętla `for` i funkcja `range()`,
 - `break` i `continue`,
-- obecne trzy projekty.
+- obecne trzy projekty,
+- podstawowe algorytmy dla klas I, II i III liceum.
 
 ## Materiały
 
