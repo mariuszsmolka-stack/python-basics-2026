@@ -22,7 +22,8 @@ Kurs jest przeznaczony dla uczniów klasy I liceum oraz osób początkujących. 
 - pętla `for` i funkcja `range()`,
 - `break` i `continue`,
 - obecne trzy projekty,
-- podstawowe algorytmy dla klas I, II i III liceum.
+- podstawowe algorytmy dla klas I, II i III liceum,
+- podstawy debugowania programów w PyCharm.
 
 ## Materiały
 

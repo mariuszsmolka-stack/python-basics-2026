@@ -15,6 +15,7 @@
 - Dział 04-pętle: OK
 - Dział 05-projekty: OK
 - Dział 06-algorytmy: OK
+- Dział 07 - Debugowanie w PyCharm: OK
 
 ## Szczegóły
 
@@ -89,9 +90,22 @@
 - OK — `klasa-3/README.md` — zawiera link do algorytmu dla klasy III.
 - OK — `klasa-3/01-nwd-i-nww.md` — lekcja algorytmiczna uzupełniona.
 
+## 07. Debugowanie w PyCharm
+
+- OK — `README.md` — opisuje dział debugowania w PyCharm.
+- OK — liczba materiałów: `7`.
+- OK — dział obejmuje punkty przerwania, wykonywanie krokowe, obserwowanie zmiennych, warunki, pętle, funkcje i algorytmy.
+- OK — `01-pierwsza-sesja-debugowania.md` — lekcja uzupełniona.
+- OK — `02-wykonywanie-krok-po-kroku.md` — lekcja uzupełniona.
+- OK — `03-zmienne-i-watches.md` — lekcja uzupełniona.
+- OK — `04-warunki-i-petle.md` — lekcja uzupełniona.
+- OK — `05-debugowanie-funkcji.md` — lekcja uzupełniona.
+- OK — `06-debugowanie-algorytmow.md` — lekcja uzupełniona.
+- OK — `07-cwiczenia-podsumowujace.md` — ćwiczenia uzupełnione.
+
 ## Linki
 
-- OK — boczna nawigacja — zawiera dostęp do strony głównej, licencji, organizacji kursu, statusu, działów, lekcji i algorytmów.
+- OK — boczna nawigacja — zawiera dostęp do strony głównej, licencji, organizacji kursu, statusu, działów, lekcji, algorytmów i debugowania w PyCharm.
 - OK — `docs/00-organizacja/README.md` — linki względne prowadzą do istniejących plików.
 - OK — działy kursu — spisy treści działów prowadzą do istniejących lekcji.
 

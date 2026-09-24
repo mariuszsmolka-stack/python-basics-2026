@@ -13,6 +13,8 @@ Kurs prowadzi od pierwszych prostych poleceń do warunków, pętli i małych pro
 
 W kursie znajduje się także dział [Algorytmy](06-algorytmy/README.md), przygotowany dla uczniów klas I, II i III liceum. Implementacje w Pythonie są tam domyślnie ukryte, aby najpierw zrozumieć pomysł rozwiązania.
 
+Nowy dział [Debugowanie w PyCharm](07-debugger-pycharm/README.md) pokazuje, jak zatrzymywać program, wykonywać kod krok po kroku i obserwować wartości zmiennych w zwykłych plikach `.py`.
+
 ## Od czego zacząć
 
 [Przejdź do pierwszej lekcji](01-podstawy/01-pierwszy-program.md)
