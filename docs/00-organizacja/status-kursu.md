@@ -2,13 +2,13 @@
 
 ## Data sprawdzenia
 
-2026-06-29
+2026-09-24
 
 ## Podsumowanie
 
 - Strona główna: OK
 - Licencja: OK
-- Dział 00-organizacja: DO POPRAWY
+- Dział 00-organizacja: OK
 - Dział 01-podstawy: OK
 - Dział 02-wejście-wyjście: OK
 - Dział 03-warunki: OK
@@ -19,20 +19,20 @@
 
 ## Strona główna
 
-- OK — `docs/index.md` — zawiera linki do działów, lekcji, projektów i licencji.
+- OK — `docs/index.md` — strona główna jest uporządkowana i korzysta z bocznej nawigacji.
 
 ## Licencja
 
 - OK — `License.md` — plik licencji istnieje w repozytorium.
 - OK — `docs/licencja.md` — plik licencji w dokumentacji istnieje.
-- OK — `docs/index.md` — zawiera link do `docs/licencja.md`.
+- OK — `docs/index.md` — licencja jest dostępna przez boczną nawigację.
 
 ## 00. Organizacja
 
-- OK — `README.md` — zawiera linki do tematów organizacyjnych i statusu kursu.
-- PUSTE / ROBOCZE — `jak-pracujemy.md` — plik wygląda na szkic.
-- PUSTE / ROBOCZE — `jupyterlab.md` — plik wygląda na szkic.
-- PUSTE / ROBOCZE — `oddawanie-prac.md` — plik wygląda na szkic.
+- OK — `README.md` — opisuje organizację kursu i prowadzi do materiałów organizacyjnych.
+- OK — `jak-pracujemy.md` — materiał organizacyjny uzupełniony.
+- OK — `jupyterlab.md` — praktyczne wprowadzenie do JupyterLab uzupełnione.
+- OK — `oddawanie-prac.md` — zasady oddawania prac uzupełnione.
 - OK — `status-kursu.md` — raport statusu jest aktualny.
 
 ## 01. Podstawy
@@ -80,19 +80,14 @@
 
 ## Linki
 
-- OK — `docs/index.md` — linki względne prowadzą do istniejących plików.
+- OK — boczna nawigacja — zawiera dostęp do strony głównej, licencji, organizacji kursu, statusu, działów i lekcji.
 - OK — `docs/00-organizacja/README.md` — linki względne prowadzą do istniejących plików.
-- OK — `docs/01-podstawy/README.md` — linki względne prowadzą do istniejących plików.
-- OK — `docs/02-wejscie-wyjscie/README.md` — linki względne prowadzą do istniejących plików.
-- OK — `docs/03-warunki/README.md` — linki względne prowadzą do istniejących plików.
-- OK — `docs/04-petle/README.md` — linki względne prowadzą do istniejących plików.
-- OK — `docs/05-projekty/README.md` — linki względne prowadzą do istniejących plików.
-- OK — nowe lekcje — `00-bloki-kodu.md`, `05-match-case.md` i `05-break-continue.md` są uwzględnione w odpowiednich spisach.
+- OK — działy kursu — spisy treści działów prowadzą do istniejących lekcji.
 
 ## Następne kroki
 
-1. Uzupełnić robocze pliki w dziale `00-organizacja`.
-2. Sprawdzić spójność kolejności lekcji po publikacji na GitHub Pages.
-3. Przejrzeć ćwiczenia utrwalające w działach wejście-wyjście, warunki i pętle.
-4. Sprawdzić, czy opisy organizacyjne są wystarczające dla uczniów.
-5. Brak pilnych poprawek w linkach.
+1. Przejrzeć treść lekcji po publikacji na GitHub Pages.
+2. Sprawdzić, czy uczniowie bez problemu odnajdują materiały w bocznej nawigacji.
+3. Uzupełniać kolejne materiały tylko zgodnie z rzeczywistym zakresem kursu.
+4. Przejrzeć ćwiczenia utrwalające po pracy z uczniami.
+5. Brak pilnych poprawek organizacyjnych.

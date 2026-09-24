@@ -1,23 +1,44 @@
 # Oddawanie prac
 
-## Cel lekcji
+Prace oddajemy w takiej formie, jaką wskaże nauczyciel. Najważniejsze jest to, aby plik był zapisany, czytelnie nazwany i możliwy do uruchomienia.
 
-Poznasz zasady oddawania zadań i projektów.
+## Co oddajemy
 
-## Czego się nauczysz
+W zależności od zadania może to być:
 
-- jak nazwać plik z pracą,
-- gdzie przesłać rozwiązanie,
-- co sprawdzić przed oddaniem.
+- notatnik JupyterLab z rozszerzeniem `.ipynb`,
+- plik programu w Pythonie z rozszerzeniem `.py`,
+- kilka plików zapisanych w jednym folderze.
 
-## Przykład
+## Nazwy plików
 
-Miejsce na przykład.
+Nazwa pliku powinna mówić, czego dotyczy praca. Dobra nazwa ułatwia sprawdzenie zadania.
 
-## Ćwiczenia
+Przykłady:
 
-Miejsce na ćwiczenia.
+```text
+lekcja_02_print.ipynb
+zadania_input.py
+projekt_01_kalkulator_zakupow.py
+```
 
-## Sposób oddania pracy
+## Przed oddaniem
 
-Oddaj pracę w miejscu wskazanym przez nauczyciela.
+Przed oddaniem pracy sprawdź:
+
+1. Czy plik jest zapisany.
+2. Czy program uruchamia się bez błędów.
+3. Czy wszystkie wymagane ćwiczenia są wykonane.
+4. Czy wynik programu jest czytelny.
+5. Czy nazwy zmiennych są zrozumiałe.
+6. Czy plik znajduje się w Twoim folderze.
+
+## Jak sprawdzić program
+
+Uruchom program od początku. Jeśli korzystasz z notatnika, uruchom wszystkie komórki w poprawnej kolejności. Jeśli korzystasz z pliku `.py`, uruchom cały plik.
+
+Nie oddawaj programu, którego nie udało się uruchomić.
+
+## Ważna zasada
+
+Gotowa praca powinna być Twoim rozwiązaniem. Możesz korzystać z lekcji i przykładów, ale kod trzeba rozumieć i umieć wyjaśnić.

@@ -5,64 +5,24 @@ title: Python od podstaw
 
 # Python od podstaw
 
-Kurs dla klasy I liceum. Materiały są przygotowane dla osób, które dopiero
-zaczynają naukę programowania.
+Autor: Mariusz Smółka
 
-Po lewej stronie znajduje się boczna nawigacja kursu. Na dole lekcji są przyciski prowadzące do poprzedniej i następnej lekcji.
+To jest strona główna kursu Python od podstaw. Materiały są przeznaczone dla uczniów klasy I liceum oraz osób, które dopiero zaczynają naukę programowania.
 
-## Spis treści
+Kurs prowadzi od pierwszych prostych poleceń do warunków, pętli i małych projektów. Na zajęciach pracujemy głównie w JupyterLab, czyli środowisku, w którym można szybko wpisywać kod, uruchamiać go i obserwować wyniki.
 
-### 00. Organizacja pracy
+## Od czego zacząć
 
-- [Wprowadzenie](00-organizacja/README.md)
-- [Jak pracujemy](00-organizacja/jak-pracujemy.md)
-- [JupyterLab](00-organizacja/jupyterlab.md)
-- [Oddawanie prac](00-organizacja/oddawanie-prac.md)
-- [Status kursu](00-organizacja/status-kursu.md)
+[Przejdź do pierwszej lekcji](01-podstawy/01-pierwszy-program.md)
 
-### 01. Podstawy
+## Jak korzystać z kursu?
 
-- [Wprowadzenie](01-podstawy/README.md)
-- [Pierwszy program w Pythonie - komputer wykonuje Twoje polecenia](01-podstawy/01-pierwszy-program.md)
-- [Funkcja print() w Pythonie - wypisywanie tekstu i wartości](01-podstawy/02-print.md)
-- [Zmienne w Pythonie - nazwy, wartości i proste obliczenia](01-podstawy/03-zmienne.md)
-- [Typy danych w Pythonie - int, float, str, bool](01-podstawy/04-typy-danych.md)
-- [Komentarze w Pythonie - po co są i jak pisać je poprawnie](01-podstawy/05-komentarze.md)
-- [Operatory w Pythonie](01-podstawy/06-operatory.md)
+1. Zacznij od pierwszej lekcji.
+2. Korzystaj ze spisu treści po lewej stronie.
+3. Na dole lekcji używaj przycisków „Poprzednia lekcja” i „Następna lekcja”.
+4. Na telefonie spis treści jest dostępny pod przyciskiem „Spis treści”.
+5. Wpisuj przykłady samodzielnie i uruchamiaj kod po każdej ważnej zmianie.
 
-### 02. Wejście i wyjście
+## Start
 
-- [Wprowadzenie](02-wejscie-wyjscie/README.md)
-- [Wczytywanie danych od użytkownika - input()](02-wejscie-wyjscie/01-input.md)
-- [Konwersja typów w Pythonie - int(), float(), str()](02-wejscie-wyjscie/02-konwersja-typow.md)
-- [Zadania - input(), print() i konwersja typów](02-wejscie-wyjscie/03-zadania.md)
-
-### 03. Warunki
-
-- [Wprowadzenie](03-warunki/README.md)
-- [Bloki kodu i wcięcia w Pythonie](03-warunki/00-bloki-kodu.md)
-- [Instrukcja warunkowa if w Pythonie](03-warunki/01-if.md)
-- [Instrukcja warunkowa if-else w Pythonie](03-warunki/02-if-else.md)
-- [Instrukcja elif w Pythonie - kilka warunków po kolei](03-warunki/03-elif.md)
-- [Zadania - instrukcje warunkowe if, else i elif](03-warunki/04-zadania.md)
-- [match-case w Pythonie - wybór jednej z wielu możliwości](03-warunki/05-match-case.md)
-
-### 04. Pętle
-
-- [Wprowadzenie](04-petle/README.md)
-- [Pętla while w Pythonie - powtarzanie dopóki warunek jest spełniony](04-petle/01-while.md)
-- [Licznik, akumulator i skrócone operatory przypisania w Pythonie](04-petle/02-licznik.md)
-- [Pętla for i funkcja range() w Pythonie](04-petle/03-for-range.md)
-- [Zadania - pętle while, for, range(), licznik i akumulator](04-petle/04-zadania.md)
-- [break i continue w pętlach - przerywanie i pomijanie obiegu](04-petle/05-break-continue.md)
-
-### 05. Projekty
-
-- [Wprowadzenie](05-projekty/README.md)
-- [Mini kalkulator kosztów zakupów](05-projekty/01-kalkulator.md)
-- [Projekt - liczba parzysta, nieparzysta i podzielność](05-projekty/02-parzysta-nieparzysta.md)
-- [Gra - zgadywanie liczby](05-projekty/03-zgadywanie-liczby.md)
-
-## Informacje
-
-- [Licencja materiałów](licencja.md)
+[Rozpocznij kurs od pierwszej lekcji](./01-podstawy/01-pierwszy-program.html)
