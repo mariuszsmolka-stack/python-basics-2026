@@ -1,7 +1,14 @@
+---
+layout: default
+title: Python od podstaw
+---
+
 # Python od podstaw
 
 Kurs dla klasy I liceum. Materiały są przygotowane dla osób, które dopiero
 zaczynają naukę programowania.
+
+Po lewej stronie znajduje się boczna nawigacja kursu. Na dole lekcji są przyciski prowadzące do poprzedniej i następnej lekcji.
 
 ## Spis treści
 

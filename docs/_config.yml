@@ -1,0 +1,11 @@
+title: Python od podstaw
+description: Kurs podstaw programowania w Pythonie dla klasy I liceum
+baseurl: "/python-basics-2026"
+theme: jekyll-theme-slate
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
