@@ -1,8 +1,10 @@
-# Python - podstawy programowania 2026/2027
+# Python - podstawy programowania dla klas I-III liceum
 
 Repozytorium zawiera materiały do kursu podstaw programowania w języku Python.
 
-Kurs jest przeznaczony dla uczniów klasy I liceum oraz osób początkujących. Materiały spokojnie wprowadzają w podstawy programowania: od pierwszego programu, przez zmienne i warunki, aż do prostych pętli oraz projektów. Na zajęciach pracujemy głównie w JupyterLab.
+Kurs jest przeznaczony dla uczniów klas I-III liceum oraz innych osób początkujących. Materiały obejmują podstawy programowania w Pythonie, rozpoczynają się od prostych zagadnień i są stopniowo rozwijane.
+
+Na zajęciach wykorzystywane są JupyterLab i PyCharm odpowiednio do rodzaju materiału. JupyterLab dobrze sprawdza się przy pierwszych ćwiczeniach i krótkich przykładach, a PyCharm jest wykorzystywany między innymi w dziale dotyczącym debugowania.
 
 ## Zakres
 

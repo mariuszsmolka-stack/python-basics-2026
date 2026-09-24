@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Python od podstaw
+title: Python - podstawy programowania dla klas I-III liceum
 ---
 
-# Python od podstaw
+# Python - podstawy programowania dla klas I-III liceum
 
 Autor: Mariusz Smółka
 
-To jest strona główna kursu Python od podstaw. Materiały są przeznaczone dla uczniów klasy I liceum oraz osób, które dopiero zaczynają naukę programowania.
+To jest strona główna kursu podstaw programowania w Pythonie. Materiały są przeznaczone dla uczniów klas I-III liceum oraz osób, które dopiero zaczynają naukę programowania.
 
-Kurs prowadzi od pierwszych prostych poleceń do warunków, pętli i małych projektów. Na zajęciach pracujemy głównie w JupyterLab, czyli środowisku, w którym można szybko wpisywać kod, uruchamiać go i obserwować wyniki.
+Kurs rozpoczyna się od podstaw. Kolejne działy stopniowo wprowadzają trudniejsze zagadnienia: dane wejściowe i wyjściowe, warunki, pętle, projekty, algorytmy oraz debugowanie.
+
+Na zajęciach wykorzystywane są JupyterLab i PyCharm odpowiednio do rodzaju materiału. JupyterLab pomaga w pierwszych ćwiczeniach i krótkich przykładach, a dział debugowania dotyczy pracy w PyCharm.
 
 W kursie znajduje się także dział [Algorytmy](06-algorytmy/README.md), przygotowany dla uczniów klas I, II i III liceum. Implementacje w Pythonie są tam domyślnie ukryte, aby najpierw zrozumieć pomysł rozwiązania.
 
