@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "08 - Listy"
+permalink: /08-listy/
 ---
 
 # 08 - Listy
