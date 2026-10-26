@@ -27,7 +27,7 @@ Kod można rozwinąć dopiero wtedy, gdy rozumiesz pomysł na algorytm albo chce
 
 ### Klasa I
 
-Podstawowe warunki i proste algorytmy. Zaczynamy od problemów, które można rozwiązać za pomocą zmiennych, operatorów i instrukcji warunkowych. Następnie wykorzystujemy pętle, napisy i listy do przetwarzania cyfr oraz konwersji systemów liczbowych.
+Podstawowe warunki i proste algorytmy. Zaczynamy od problemów, które można rozwiązać za pomocą zmiennych, operatorów i instrukcji warunkowych.
 
 [Przejdź do algorytmów dla klasy I](klasa-1/README.md)
 
@@ -39,7 +39,7 @@ Porządkowanie i bardziej złożone przetwarzanie danych. Pojawiają się algory
 
 ### Klasa III
 
-Klasyczne algorytmy matematyczne i maturalne. Skupiamy się na sposobach rozwiązywania zadań, które często pojawiają się w informatyce.
+Klasyczne algorytmy matematyczne i maturalne. Skupiamy się na sposobach rozwiązywania zadań, które często pojawiają się w informatyce. Następnie wykorzystujemy pętle, napisy i listy do przetwarzania cyfr oraz konwersji systemów liczbowych.
 
 [Przejdź do algorytmów dla klasy III](klasa-3/README.md)
 
