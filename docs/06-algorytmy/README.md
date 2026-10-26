@@ -27,7 +27,7 @@ Kod można rozwinąć dopiero wtedy, gdy rozumiesz pomysł na algorytm albo chce
 
 ### Klasa I
 
-Podstawowe warunki i proste algorytmy. Zaczynamy od problemów, które można rozwiązać za pomocą zmiennych, operatorów i instrukcji warunkowych.
+Podstawowe warunki i proste algorytmy. Zaczynamy od problemów, które można rozwiązać za pomocą zmiennych, operatorów i instrukcji warunkowych. Następnie wykorzystujemy pętle, napisy i listy do przetwarzania cyfr oraz konwersji systemów liczbowych.
 
 [Przejdź do algorytmów dla klasy I](klasa-1/README.md)
 
