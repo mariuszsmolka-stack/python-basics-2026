@@ -12,6 +12,8 @@ sections:
         url: "00-organizacja/jak-pracujemy.md"
       - title: "JupyterLab"
         url: "00-organizacja/jupyterlab.md"
+      - title: "Python IDE"
+        url: "00-organizacja/python-ide.md"
       - title: "Oddawanie prac"
         url: "00-organizacja/oddawanie-prac.md"
       - title: "Status kursu"

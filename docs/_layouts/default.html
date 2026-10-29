@@ -65,6 +65,41 @@
           display: block;
         }
       }
+
+      {% if page.python_ide %}
+      .course-shell.course-shell--ide {
+        box-sizing: border-box;
+        max-width: 1800px;
+      }
+
+      .course-shell--ide .python-ide-frame {
+        display: block;
+        box-sizing: border-box;
+        width: 100%;
+        height: calc(100vh - 240px);
+        height: calc(100dvh - 240px);
+        min-height: 750px;
+        border: 1px solid #dfe2e5;
+        border-radius: 8px;
+        background: #fff;
+      }
+
+      @media (min-width: 900px) {
+        .course-shell.course-shell--ide {
+          grid-template-columns: 280px minmax(0, 1fr);
+        }
+
+        .course-shell--ide .course-sidebar {
+          display: block;
+          position: sticky;
+          max-height: calc(100vh - 32px);
+        }
+
+        .course-shell--ide .mobile-toc {
+          display: none;
+        }
+      }
+      {% endif %}
     </style>
     {% include head-custom.html %}
   </head>
@@ -78,7 +113,7 @@
     </div>
 
     <div id="main_content_wrap" class="outer">
-      <div class="course-shell">
+      <div class="course-shell{% if page.python_ide %} course-shell--ide{% endif %}">
         <aside class="course-sidebar" aria-label="Nawigacja kursu">
           <a class="course-sidebar__home{% if page.path == 'index.md' %} is-active{% endif %}" href="{{ '/' | relative_url }}">Spis treści</a>
           {% include sidebar.html %}

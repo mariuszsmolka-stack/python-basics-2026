@@ -17,6 +17,8 @@ W kursie znajduje się także dział [Algorytmy](06-algorytmy/README.md), przygo
 
 Nowy dział [Debugowanie w PyCharm](07-debugger-pycharm/README.md) pokazuje, jak zatrzymywać program, wykonywać kod krok po kroku i obserwować wartości zmiennych w zwykłych plikach `.py`.
 
+Możesz również korzystać z [Python IDE](00-organizacja/python-ide.html) bezpośrednio w przeglądarce.
+
 ## Od czego zacząć
 
 [Przejdź do pierwszej lekcji](01-podstawy/01-pierwszy-program.md)
